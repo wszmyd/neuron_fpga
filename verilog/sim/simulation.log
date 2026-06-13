@@ -1,0 +1,17 @@
+Vivado Simulator 2019.1
+Time resolution is 1 ps
+TRAINING START
+TRAINING END
+Weights raw Q7.12: w0=512 w1=512 w2=1024 bias=-1546
+weights.mem line: ff9f6004000020000200
+WORKING MODE CHECK
+x=000 expected=0 result=0
+x=001 expected=0 result=0
+x=010 expected=0 result=0
+x=011 expected=0 result=0
+x=100 expected=0 result=0
+x=101 expected=0 result=0
+x=110 expected=0 result=0
+x=111 expected=1 result=1
+Saved trained weights to weights.mem
+TEST PASSED
